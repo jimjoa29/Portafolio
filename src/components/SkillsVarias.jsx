@@ -3,7 +3,7 @@ import TailwindIco from '../../public/img/tailwind-css-svgrepo-com.svg'
 const SkillsVarias = () => {
   return (
     <div className=' p-5  flex justify-center items-start text-2xl lg:w-1/2 lg:m-auto'>
-        <div className='flex flex-col gap-y-3 mr-8'>
+        <div className='flex flex-col gap-y-3 mr-4'>
             <p className='text-teal-500'><i class="fa-brands fa-html5 text-orange-500"></i> <span className='text-white sm:text-xl'>HTML</span></p>   
             <p className='text-teal-500'><i class="fa-brands fa-css3 text-cyan-500"></i> <span className='text-white sm:text-xl'>CSS</span></p>
             <p className='text-teal-500'><i class="fa-brands fa-bootstrap text-3xl "></i> <span className='text-white sm:text-xl'>Bootstrap</span></p>              
