@@ -8,8 +8,8 @@ import Footer from "./components/Footer";
 import MenuFlotante from "./components/MenuFlotante";
 import BotonWhatsapp from "./components/BotonWhatsapp";
 import Modal from "./components/Modal";
-import "./fondo.css";
-import "./modal.css";
+import "./index.css";
+
 
 function App() {
   

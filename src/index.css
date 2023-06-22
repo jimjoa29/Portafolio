@@ -2,3 +2,64 @@
 @tailwind components;
 @tailwind utilities;
 
+.fondo {
+    background-image: linear-gradient(rgb(10, 10, 10, 0.9), rgba(6, 6, 6, 0.9)), url('../../public/img/bg-003.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+.fondo2 {
+    background-image: linear-gradient(rgb(10, 10, 10, 0.8), rgba(6, 6, 6, 0.8)), url('../../public/img/bg-002.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.fondo3 {
+    background-image: linear-gradient(rgb(10, 10, 10, 0.8), rgba(6, 6, 6, 0.8)), url('../../public/img/bg-004.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.fondo4 {
+    background-image: linear-gradient(rgb(10, 10, 10, 0.9), rgba(6, 6, 6, 0.9)), url('../../public/img/bg-005.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+.fondo5 {
+    background-image: linear-gradient(rgb(10, 10, 10, 0.9), rgba(6, 6, 6, 0.92)), url('../../public/img/bg-006.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+.fondo6 {
+    background-image: linear-gradient(rgba(5, 1, 45, 0.9), rgba(6, 6, 6, 0.9)), url('../../public/img/bg-007.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+.modal {
+    position: absolute;
+    background-color: rgb(0 0 0 / 0.9);
+    top: 0px;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 400px;
+    flex: 1;
+}
+.modal .cerrar-modal {
+    position: absolute;
+    right: 3.5rem;
+    top: 1rem;
+    width: 2rem;
+    height: 2rem;
+}
+
