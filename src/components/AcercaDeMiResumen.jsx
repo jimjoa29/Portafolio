@@ -10,7 +10,7 @@ const AcercaDeMiResumen = () => {
         Soy un apasionado programador web con sólida experiencia en desarrollo de sitios y aplicaciones. Mi enfoque se centra en crear soluciones eficientes y atractivas que cumplan con los objetivos del cliente. Con habilidades en HTML, CSS, JavaScript y frameworks como React, tengo un sólido conocimiento en el desarrollo frontend y backend. Mi capacidad para colaborar en equipos multidisciplinarios y mi habilidad para resolver problemas complejos me han permitido entregar proyectos exitosos. Siempre estoy buscando nuevas oportunidades para aprender y crecer profesionalmente. Mi objetivo es crear experiencias digitales impactantes y funcionales.
         </p>
         
-        <div className="text-center lg:text-start">
+        <div className="text-center mb-8 lg:text-start">
           <Boton nombre={'Whatsapp'} />
         </div>
     </div>

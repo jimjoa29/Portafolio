@@ -5,7 +5,7 @@ const BotonWhatsapp = () => {
     <div>
         {/* Boton de Whatsapp */}
         <a href="https://wa.link/4sx8is"><img src={btnWhatsapp} alt="logo-whatsapp" 
-        className='fixed bottom-10 right-5 w-12 fixer'/></a>
+        className='fixed bottom-5 right-5 w-12 fixer'/></a>
     </div>
   )
 }
