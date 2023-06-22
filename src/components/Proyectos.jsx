@@ -17,28 +17,28 @@ const Proyectos = () => {
         
         <ProyectosCard 
           url='#'           
-          titulo='Moderna Website Guitarras' 
+          titulo='Musica' 
           view='View demo' 
           imagen={imagen01} 
         />
 
         <ProyectosCard 
           url='#'            
-          titulo='Moderna WebSite Veterinaría' 
+          titulo='Veterinaría' 
           view='View demo' 
           imagen={imagen02} 
         />
 
         <ProyectosCard 
           url='#'            
-          titulo='Modern Website Paisajes' 
+          titulo='Paisajes' 
           view='View demo' 
           imagen={imagen03}
         />
 
         <ProyectosCard 
           url='#'            
-          titulo='Moderns Website Motos' 
+          titulo='Motos' 
           view='View demo' 
           imagen={imagen04}
         />
@@ -46,14 +46,14 @@ const Proyectos = () => {
         <ProyectosCard 
           url='#'
            
-          titulo='Modern Website Fotografia' 
+          titulo='Fotografia' 
           view='View demo' 
           imagen={imagen05} 
         />
 
         <ProyectosCard 
           url='#'            
-          titulo='Moderna Website Trading' 
+          titulo='Trading' 
           view='View demo' 
           imagen={imagen06}
         />
