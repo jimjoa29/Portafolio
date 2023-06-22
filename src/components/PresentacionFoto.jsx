@@ -5,7 +5,7 @@ const PresentacionFoto = ({numero}) => {
     <div className="lg:w-1/3 flex justify-center  ">
         <div className="">
           
-          <img src={`/img/${numero}.png`} alt="foto" className="w-80  " />
+          <img src={`./img/${numero}.png`} alt="foto" className="w-80  " />
         </div>
     </div>
   )
