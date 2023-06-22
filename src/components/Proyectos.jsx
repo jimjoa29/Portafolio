@@ -1,4 +1,10 @@
 import ProyectosCard from './ProyectosCard'
+import imagen01 from '../../public/img/card/001.jpg'
+import imagen02 from '../../public/img/card/002.jpg'
+import imagen03 from '../../public/img/card/003.jpg'
+import imagen04 from '../../public/img/card/004.jpg'
+import imagen05 from '../../public/img/card/005.jpg'
+import imagen06 from '../../public/img/card/006.jpg'
 
 const Proyectos = () => {
   return (
@@ -13,28 +19,28 @@ const Proyectos = () => {
           url='#'           
           titulo='Moderna Website Guitarras' 
           view='View demo' 
-          numero='001' 
+          imagen={imagen01} 
         />
 
         <ProyectosCard 
           url='#'            
           titulo='Moderna WebSite Veterinaría' 
           view='View demo' 
-          numero='002' 
+          imagen={imagen02} 
         />
 
         <ProyectosCard 
           url='#'            
           titulo='Modern Website Paisajes' 
           view='View demo' 
-          numero='003' 
+          imagen={imagen03}
         />
 
         <ProyectosCard 
           url='#'            
           titulo='Moderns Website Motos' 
           view='View demo' 
-          numero='004' 
+          imagen={imagen04}
         />
 
         <ProyectosCard 
@@ -42,14 +48,14 @@ const Proyectos = () => {
            
           titulo='Modern Website Fotografia' 
           view='View demo' 
-          numero='005' 
+          imagen={imagen05} 
         />
 
         <ProyectosCard 
           url='#'            
           titulo='Moderna Website Trading' 
           view='View demo' 
-          numero='006' 
+          imagen={imagen06}
         />
     </div>
    </div>
