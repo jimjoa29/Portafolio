@@ -3,9 +3,9 @@ import Boton from "./Boton";
 const PresentacionNombre = () => {
   return (
     <div className=" lg:w-1/2  mx-3">
-      <p className=" text-slate-300 text-2xl ">
+      <p className=" text-slate-300 text-2xl mt-6">
         Hola,{""}
-        <span className="text-teal-500">Yo soy</span>
+        <span className="text-teal-500 "> Soy</span>
       </p>
       <h1 className=" text-3xl md:text-5xl uppercase font-bold text-teal-500 py-4 lg:text-5xl">Joan <span className="text-slale-300">Narvaez</span></h1>
       <h2 className="text-2xl text-slate-300 pb-4">Front-end Developer</h2>
