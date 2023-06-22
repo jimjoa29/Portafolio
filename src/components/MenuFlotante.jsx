@@ -1,6 +1,6 @@
 const MenuFlotante = () => {
   return (
-    <div className="fixed right-3 top-1/3">
+    <div className="fixed right-5 top-1/3">
       <div className=" flex flex-col  gap-4 text-white ">
         <a className="hover:text-teal-400" href="#inicio">
           <i class="fa fa-house"></i>
