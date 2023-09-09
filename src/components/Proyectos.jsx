@@ -18,14 +18,14 @@ const Proyectos = () => {
         <ProyectosCard 
           url='https://tiny-phoenix-aa7ca5.netlify.app/'           
           titulo='Equipos de Trabajo' 
-          view='View demo' 
+          view='  React, Css' 
           imagen={imagen01} 
         />
 
         <ProyectosCard 
           url='https://ephemeral-fenglisu-a12d0a.netlify.app/'            
           titulo='Veterinaría' 
-          view='View demo' 
+          view='React, Tailwind' 
           imagen={imagen02} 
         />
 
@@ -35,14 +35,14 @@ const Proyectos = () => {
           view='View demo' 
           imagen={imagen03}
         />
-        {/*
+       
         <ProyectosCard 
-          url='#'            
-          titulo='Motos' 
-          view='View demo' 
+          url='https://joyful-truffle-356d5a.netlify.app/'            
+          titulo='Reloj Digital' 
+          // view='View demo' 
           imagen={imagen04}
         />
-
+         {/*
         <ProyectosCard 
           url='#'
            
