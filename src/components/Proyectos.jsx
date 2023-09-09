@@ -23,7 +23,7 @@ const Proyectos = () => {
         />
 
         <ProyectosCard 
-          url='#'            
+          url='https://ephemeral-fenglisu-a12d0a.netlify.app/'            
           titulo='Veterinaría' 
           view='View demo' 
           imagen={imagen02} 
