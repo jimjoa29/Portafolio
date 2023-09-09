@@ -18,10 +18,10 @@ const PresentacionNombre = () => {
 
       <div className="flex flex-row justify-center items-center gap-4 py-6 lg:justify-start ">
         <div className="bg-teal-500 hover:bg-teal-600 cursor-pointer w-8 h-8 grid place-content-center rounded-full ">
-          <i class="fa-brands fa-github text-white text-xl"></i>
+        <a href="https://github.com/jimjoa29/"><i class="fa-brands fa-github text-white text-xl"></i></a>
         </div>        
         <div className="bg-teal-500 hover:bg-teal-600 cursor-pointer w-8 h-8 grid place-content-center rounded-full ">
-          <i class="fa-brands fa-linkedin   text-white text-xl"></i>
+          <a href="https://www.linkedin.com/in/joan-alejandro-narvaez-garcia-/"><i class="fa-brands fa-linkedin   text-white text-xl"></i></a>
         </div>
       </div>
 
@@ -31,3 +31,12 @@ const PresentacionNombre = () => {
 };
 
 export default PresentacionNombre;
+
+<div className="flex flex-row items-center gap-4 py-6 justify-center ">
+        <div className="bg-teal-500 hover:bg-teal-600 cursor-pointer w-8 h-8 grid place-content-center rounded-full ">
+         <a href="https://github.com/jimjoa29/"><i class="fa-brands fa-github text-white text-xl"></i></a>
+        </div>        
+        <div className="bg-teal-500 hover:bg-teal-600 cursor-pointer w-8 h-8 grid place-content-center rounded-full ">
+          <a href="https://www.linkedin.com/in/joan-alejandro-narvaez-garcia-/"><i class="fa-brands fa-linkedin   text-white text-xl"></i></a>
+        </div>
+      </div>
